@@ -1,6 +1,6 @@
 ---
 name: commit-message
-description: Use this skill if no commit message conventions are specified.
+description: Use this to write commit messages unless specific commit message conventions are explicitly specified.
 ---
 
 ## Commit message Skills
