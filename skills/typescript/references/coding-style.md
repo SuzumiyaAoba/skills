@@ -9,3 +9,4 @@
   - DO NOT rely on type assertions for parsing. Validate and parse external input with Zod/Valibot/ArkType.
 - Prefer `const`; use `let` only when necessary.
 - Write TSDoc comments for exported APIs.
+- Add explicit type annotations to all exported functions.
