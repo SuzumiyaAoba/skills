@@ -1,6 +1,6 @@
 ---
 name: tdd
-description: Use this to development.
+description: Use this for development.
 ---
 
 # A way of writing code
