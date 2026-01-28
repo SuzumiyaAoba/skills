@@ -1,4 +1,4 @@
-## Coding Style
+# Coding Style
 
 - Prioritize type safety.
   - DO NOT use `any`. Use `unknown` instead.
