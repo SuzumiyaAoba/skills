@@ -10,3 +10,13 @@
 - Prefer `const`; use `let` only when necessary.
 - Write TSDoc comments for types, top-level variables and functions..
 - Add explicit type annotations to all exported functions.
+
+## Naming convention
+
+### Schema
+
+PascalCase
+
+```ts
+const SomeSchema = z.object({...});
+```
